@@ -1,1 +1,1 @@
-Hello there
+Hello there, this is a test document demonstrating how Git works
