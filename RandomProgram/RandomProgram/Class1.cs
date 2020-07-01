@@ -8,6 +8,12 @@ namespace RandomProgram
 {
     class Class1
     {
-        int i = 20;
+        
+        public static void mainFunct()
+        {
+            int i = 20;
+            Console.WriteLine(i);
+        }
+        
     }
 }

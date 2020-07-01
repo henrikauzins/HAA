@@ -10,6 +10,8 @@ namespace RandomProgram
     {
         static void Main(string[] args)
         {
+            int i = 20;
+            Console.WriteLine(i);
         }
     }
 }
